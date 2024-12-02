@@ -3,8 +3,6 @@
 Start by importing the required packages:
 
 
-Conflict!!!!
-
 ```{python}
 import pandas as pd
 ```
@@ -28,7 +26,14 @@ And do something with it:
 # Your code goes here
 ```
 
+<<<<<<< HEAD
 ```{python}
 star_wars_df['species'].unique()
 star_wars_df.head()
 ```
+=======
+xD :P /.\ .______.
+>>>>>>> e448b2b324174a752bc2729c9fd04b82a800e0e5
+
+
+conflict
