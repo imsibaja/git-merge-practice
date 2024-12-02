@@ -38,4 +38,4 @@ star_wars_df.head()
 xD :P /.\ .______.
 
 
-conflict
+am i doing what I am supposed to be doing?
