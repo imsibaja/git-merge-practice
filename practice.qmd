@@ -2,6 +2,9 @@
 
 Start by importing the required packages:
 
+
+Conflict!!!!
+
 ```{python}
 import pandas as pd
 ```
@@ -23,4 +26,9 @@ And do something with it:
 
 ```{python}
 # Your code goes here
+```
+
+```{python}
+star_wars_df['species'].unique()
+star_wars_df.head()
 ```
