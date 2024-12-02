@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 Here is a conflict for you
+=======
+
+
+
+```python
+2 + 2
+
+```
+>>>>>>> 64169a4fd7e8eb6d4980b92cfc589f85f1222b22
